@@ -1,6 +1,9 @@
 About nbserverproxy
 ===================
 
+> [!WARNING]
+> **nbserverproxy is no longer maintained upstream.** Upstream renamed this project to [jupyter-server-proxy](https://github.com/jupyterhub/jupyter-server-proxy), and the last nbserverproxy release was 0.8.8 on 2018-12-10. This feedstock stays available for existing users, but no new versions are expected. Use [jupyter-server-proxy](https://github.com/conda-forge/jupyter-server-proxy-feedstock) instead.
+
 Home: https://github.com/jupyterhub/nbserverproxy
 
 Package license: BSD-3-Clause
